@@ -1,5 +1,4 @@
 import React from 'react';
-import { NONAME } from 'dns';
 import CSS from 'csstype';
 
 type Props = {
